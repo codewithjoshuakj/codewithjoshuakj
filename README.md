@@ -1,5 +1,5 @@
 <img src="images/Grey and Black Simple Marketing LinkedIn Banner.png">
-<H1>Hey I Am Joshua K J</h1>
+<H1>Hey I'm Joshua K J</h1>
 
 ## 🔗 Links
 
