@@ -5,26 +5,28 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:joshuakjofficial@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-k-j-604164300/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tra.ash._/)  [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+919544542337) 
 
-## 🚀 About Me
+# 🚀 About Me  
 
-🎓 Computer Science Engineering student passionate about building impactful software solutions.
-💻 Currently diving deep into Full Stack Development and sharpening my skills in both frontend and backend.
+🎓 **Computer Science Engineering student** passionate about building impactful software solutions.  
+💻 Currently exploring **Full Stack Development** and improving both **frontend** and **backend** skills.  
 
-### 🌱 Skills so far:
+---
 
-HTML, CSS, JavaScript – crafting responsive and user-friendly interfaces
+## 🌱 Skills  
+- **Frontend:** HTML, CSS, JavaScript – crafting responsive & user-friendly interfaces  
+- **Version Control:** Git – efficient collaboration & project management  
+- **Learning:** Modern frameworks & backend technologies  
 
-Git – version control & collaboration
+---
 
-Learning modern frameworks and backend technologies
+## 🎯 Goals  
+- Master **React, Node.js, and Databases**  
+- Build & contribute to **real-world open-source projects**  
+- Grow into a **skilled Full Stack Developer**  
 
-### 🚀 Goals:
+---
+✨ Always curious | 🚀 Always building | 📚 Always learning
 
-Master React, Node.js, and databases
-
-Build and contribute to real-world open-source projects
-
-Grow as a full stack developer
 
 
 
